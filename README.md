@@ -9,7 +9,7 @@ plan with flashcards, and a stats page.
 
 There are two ways to use it. Both run the same code.
 
-- **Claude-hosted page:** https://claude.ai/artifact/NJ66ex5AZ6LBSNwNy4oJSW (private to you; open it while signed in to Claude)
+- **Claude-hosted page:** https://claude.ai/artifact/NJ66ex5AZ6LBSNwNy4oJ (private to you; open it while signed in to Claude)
 - **Installable app:** the `app` folder here, hosted free on GitHub Pages (steps below)
 
 | | Claude-hosted page | Installable app (this folder) |
